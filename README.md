@@ -13,7 +13,5 @@ Introduction to use Docker
 
 
 
----------
-2017 - Rodrigo Q.
 
-[github] (https://github.com/RodrigoQuispe)
+[Github] (https://github.com/RodrigoQuispe)
