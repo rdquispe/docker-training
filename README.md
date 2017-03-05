@@ -8,7 +8,7 @@ Using docker.
   - Hello world with Docker container
   - Contact
 
-# Install Docker
+### Install Docker
 
 - On [Windows](https://docs.docker.com/engine/installation/windows/)
 - On [Mac](https://docs.docker.com/engine/installation/mac/) 
@@ -16,13 +16,15 @@ Using docker.
 
 ### Hello world with Docker container
 
+Open with terminal
+
 - Go to `cd hello-world`.
 - Review the files.
 - Review  `./running.sh`.
 
 
 
-License
+### License
 ----
 
 MIT
