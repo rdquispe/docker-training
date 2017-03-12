@@ -22,7 +22,10 @@ Open with terminal
 - Review the files.
 - Review  `./running.sh`.
 
-
+``` sh
+$ docker build -t nodeweb .
+$ docker run --name hiworld -d -p 8080:8080 nodeweb
+```
 
 ### License
 ----
