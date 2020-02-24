@@ -18,15 +18,19 @@ Using docker.
 
 Open with terminal
 
-- Go to `cd hello-world`.
-- Review the files.
-- Review  `./running.sh`.
+- review  `./running.sh`.
 
 ``` sh
+$ cd hello-world
+$ ./running.sh
+```
+
+- other option
+
+```
 $ docker build -t nodeweb .
 $ docker run --name hiworld -d -p 8080:8080 nodeweb
 ```
-
 ### License
 ----
 
