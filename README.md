@@ -31,10 +31,3 @@ $ ./running.sh
 $ docker build -t nodeweb .
 $ docker run --name hiworld -d -p 8080:8080 nodeweb
 ```
-### License
-----
-
-MIT
-
-
-**By Rodrigo Quispe!**
